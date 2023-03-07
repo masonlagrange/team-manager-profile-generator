@@ -9,7 +9,7 @@ Clone or copy the repository into a local system, from there you can run 'npm i'
 ## Usage
 Open the console of your system or Git Bash, navigate to the folder containing the program. Type 'node index' into the command line. Follow the prompts, adding the manager information, as well as the information for all team members. A confirmation will be logged to the console when the HTML file is created. Your generated HTML file can be found in the 'dist' folder of the cloned project. Below is a link to a walkthrough of the workflow.
 
-[Walkthrough][https://drive.google.com/file/d/156uun60f53F9BKMMM82zQa9cKrWdDW2y/view]
+[Walkthrough](https://drive.google.com/file/d/156uun60f53F9BKMMM82zQa9cKrWdDW2y/view)
 
 ## License
 MIT License
